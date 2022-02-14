@@ -11,23 +11,7 @@
 5.  WWVhLCBkZWJ1Z2dlciBpcyB0aGUga2V5
 
 6.  Код знайшов:
-    <html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport"
-              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Start</title>
-    </head>
-    <body>
-    <script>
-        let url = 'false_finish.php'
-        if (a="1") {
-            window.location.href = url;
-        }
-    </script>
-    </body>
-    </html>
+    // task\_\_6.html
 
 змінити не знаю як
 
